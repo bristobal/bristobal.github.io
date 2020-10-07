@@ -10134,8 +10134,7 @@ section.resume-section .resume-section-content {
   }
 }
 #hab{
-  border-radius: 5px;
-  border: 1px solid rgba(0,0,0,.3);
+  border-radius: 10px;
   box-shadow: 2px 2px 10px rgba(0,0,0,.2);
   padding: 10px;
 }
