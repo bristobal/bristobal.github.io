@@ -10156,3 +10156,28 @@ section.resume-section .resume-section-content {
   margin-bottom: 0px;
   margin-left: 20px;
 }
+
+
+#int{
+  border-radius: 10px;
+  box-shadow: 2px 2px 10px rgba(0,0,0,.2);
+  padding: 10px;
+}
+#int .col {
+  min-width: 250px;
+}
+#int .col .subheading{
+  text-align: center;
+}
+#int .col .elem img{
+  display:inline-block;
+  vertical-align: middle;
+  width: 40px;
+}
+#int .col .elem p{
+  display:inline-block;
+  vertical-align: middle;
+  font-weight: normal;
+  margin-bottom: 0px;
+  margin-left: 20px;
+}
