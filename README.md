@@ -1,12 +1,15 @@
-Cristóbal Briones Ramírez
-Av. Presidente Kennedy 7427, Dpto 502, Las Condes, Santiago, 7560102.
-+56966672640
-cbrionesr@kubyte.cl
-28/07/1994
-18.932.240-2"	
-	
-Education	"Title: Bsc in Business Administration. Universidad del Desarrollo, Santiago de Chile, March 2013  - December 2018.
-G.P.A. 5.45"
+
+## Contact Info:
+- email: [mailto:cbrionesr@kubyte.cl]
+
+
+## Education
+- Bsc. in Business Administration | Universidad del Desarrollo (_December 2018_)
+
+## Work Experience
+- 	Co-founder & CCO @ Kubyte Labs, Santiago, **(_September 2019 - Present_)**
+
+
 Work Experience	"Co-founder & CCO, Kubyte Labs, Santiago, September 2019 - Present.
 Supervised of sales strategy of company acquiring new clients and projects successfully getting new clients to acquire our analytics services. 
 Achieving to create Google Cloud partnership with company and provide funding for our startup.
